@@ -1,0 +1,38 @@
+/*section-a styles*/
+#section-a h1{
+    text-align: center;
+}
+
+#section-a .row{
+    margin-top:20px;
+}
+#section-a .card{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 1em;
+}
+#section-a .card:hover{
+    box-shadow: 3px 3px 3px 3px #cccccc;
+
+}
+#section-a .card img {
+    width: 100%;
+    height: 200px;
+
+}
+#section-a .card img:hover {
+    opacity: 0.3;
+}
+/*section-b styles*/
+#section-b{
+    background-color: red;
+    text-align:center;
+    font-family: monospace;
+    color:black;
+    background-image: url("../images/food1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height:80vh;
+    padding-top: 250px;
+}

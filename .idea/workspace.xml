@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f53aa05b-2e1c-4a29-ac70-850945109e66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZdHSzi0omRdVD2xsJge4FdlaB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/IntroductiontoPHP" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020\Project5\images" />
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020" />
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020\ErickForester" />
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020\Project 4\images" />
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020\Project 4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PhpstormProjects\MIT2020\Project 4\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f53aa05b-2e1c-4a29-ac70-850945109e66" name="Default Changelist" comment="" />
+      <created>1579360963148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579360963148</updated>
+      <workItem from="1579360965140" duration="7828000" />
+      <workItem from="1579396356144" duration="9092000" />
+      <workItem from="1579418511227" duration="12263000" />
+      <workItem from="1579437237297" duration="2057000" />
+      <workItem from="1579486568072" duration="5084000" />
+      <workItem from="1579499507009" duration="1351000" />
+      <workItem from="1579503007326" duration="3981000" />
+      <workItem from="1579512743511" duration="1280000" />
+      <workItem from="1579585826901" duration="719000" />
+      <workItem from="1579587787899" duration="11007000" />
+      <workItem from="1579619241634" duration="4957000" />
+      <workItem from="1579627975665" duration="10027000" />
+      <workItem from="1579639633586" duration="601000" />
+      <workItem from="1580239997149" duration="3122000" />
+      <workItem from="1580409971375" duration="7920000" />
+      <workItem from="1580466892101" duration="4952000" />
+      <workItem from="1580814635008" duration="5001000" />
+      <workItem from="1580828183697" duration="1880000" />
+      <workItem from="1580830908478" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579489353124">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="261" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1579489353124" />
+    <state x="708" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579438608031">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="708" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1304.768@0.0.1304.768" timestamp="1579438608031" />
+    <state x="432" y="139" key="FileChooserDialogImpl" timestamp="1580831068244">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1580831068244" />
+    <state x="348" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1580830909980">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="348" y="208" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1580830909980" />
+    <state x="308" y="172" key="run.anything.popup" timestamp="1580417841010">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="308" y="172" key="run.anything.popup/0.0.1304.768@0.0.1304.768" timestamp="1580417841010" />
+  </component>
+</project>

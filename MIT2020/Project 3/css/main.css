@@ -1,0 +1,57 @@
+.header{
+    text-align: center;
+}
+#section-a{
+    height: 500px;
+    color: #ffffff;
+    text-align: center;
+}
+#section-b{
+    margin:0;
+    text-align: center;
+    height: 500px;
+    width:100%;
+}
+#section-c {
+    background: #ffffff;
+    color: #333333;
+    padding: 2px;
+    text-align: center;
+
+}
+.btn{
+    text-decoration: none;
+    border: 1px #333333 solid;
+    border-radius: 15px;
+    color: #ffffff;
+    display:inline-block;
+    padding: 1em 2em ;
+    margin: 5em;
+    background-color: black;
+}
+.bg-image{
+    background-image: url("../images/pop.jpeg");
+    position:absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+    height: 500px;
+    z-index: -1;
+
+}
+.tittle{
+    position: absolute;
+}
+.card-content{
+
+}
+.card-image{
+    width: 200px;
+    height: 200px;
+}
+/*section-f*/
+.bottom{
+    float:left;
+
+}

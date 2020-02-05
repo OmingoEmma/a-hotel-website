@@ -1,0 +1,24 @@
+#p1 {
+    background-color:green;
+    font-size:50px;
+    color:white;
+    border:2px solid red;
+    padding:20px;
+}
+
+#p2 {
+    backgound-color:gray;
+    colour:white;
+    border:3px dotted blue;
+    padding:15px;
+}
+.lastp{
+    color:#0000ff;
+}
+.divElement{
+    color:red;
+    background-color: black;
+}
+
+
+

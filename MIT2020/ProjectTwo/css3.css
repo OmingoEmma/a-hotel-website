@@ -1,0 +1,45 @@
+#home{ background-image: url("../images/img1.png");
+    border: 2px solid ;
+    background-color:royalblue;
+    color: aliceblue;
+    padding:30px;
+    float:left;
+    width:100%;
+    height:400px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font: bold;
+
+
+}
+#about{
+    background-image: url("../images/img1.png");
+    border: 2px solid ;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding:30px;
+    float:left;
+    width:100%;
+    height:400px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font: bold;
+
+}#contact{background-image: url("../images/img1.png");
+     border: 2px solid ;
+     background-color: lightskyblue;
+     color: aliceblue;
+     padding:30px;
+     float:left;
+     width:100%;
+     height:400px;
+     background-repeat: no-repeat;
+     background-size:cover;
+     font: bold;
+
+ }
+footer {
+    text-align: center;
+    padding:50px;
+
+}

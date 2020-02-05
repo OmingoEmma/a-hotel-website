@@ -1,0 +1,40 @@
+.hdright{
+    padding-left: 140vh;
+}
+.top1{
+    text-align: center;
+    height:50px;
+}
+.bg-image{
+    background-image:url("../images/sectionA.jpg");
+    position:absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+    height: 400px;
+    z-index: -1;
+
+}
+.container-fluid{
+    color: #ff3c3a;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 100px;
+}
+#section-a{
+    height:500px;
+}
+#section-b{
+    height:500px;
+    margin-bottom: 20px;
+}
+.footer {
+
+    left: 0;
+    bottom: 0;
+    width: 200vh;
+    background-color: red;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf664604-4645-4c7d-85f9-c5adf407a20f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6L1IK02ZUGhCa1Vi5vKQZqgrh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson 2" />
+      <recent name="$PROJECT_DIR$/Project1/images" />
+      <recent name="$PROJECT_DIR$/Lesson1/IMAGES" />
+      <recent name="$PROJECT_DIR$/Lesson1/CSS" />
+      <recent name="$PROJECT_DIR$/Lesson1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment/images" />
+      <recent name="$PROJECT_DIR$/Assignment" />
+      <recent name="$PROJECT_DIR$/MITCrashcourse/Lesson1" />
+      <recent name="$PROJECT_DIR$/Lesson 2/images" />
+      <recent name="$PROJECT_DIR$/Lesson 2/CSS" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MIT2020/Lesson1/lesson2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lesson2.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf664604-4645-4c7d-85f9-c5adf407a20f" name="Default Changelist" comment="" />
+      <created>1578464880687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578464880687</updated>
+      <workItem from="1578464883909" duration="2743000" />
+      <workItem from="1578468192772" duration="5953000" />
+      <workItem from="1578550172695" duration="18156000" />
+      <workItem from="1578895591986" duration="36000" />
+      <workItem from="1578896215082" duration="620000" />
+      <workItem from="1578901382461" duration="1265000" />
+      <workItem from="1578988740788" duration="212000" />
+      <workItem from="1579069669517" duration="11858000" />
+      <workItem from="1579153795177" duration="13598000" />
+      <workItem from="1579240713892" duration="9628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="174" width="464" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579156884974">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="272" y="174" width="464" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.741@0.0.1024.741" timestamp="1579156884974" />
+    <state x="195" y="102" width="626" height="537" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578555858873">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="195" y="102" width="626" height="537" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1024.741@0.0.1024.741" timestamp="1578555858873" />
+    <state x="245" y="120" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579158264348">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="245" y="120" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.741@0.0.1024.741" timestamp="1579158264348" />
+    <state x="529" y="126" width="426" height="480" key="FileChooserDialogImpl" timestamp="1579069863042">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="529" y="126" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1579069863042" />
+    <state x="6" y="11" key="SettingsEditor" timestamp="1578467626749">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="6" y="11" key="SettingsEditor/0.0.1024.741@0.0.1024.741" timestamp="1578467626749" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579240714742">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1579240714742" />
+    <state x="165" y="0" width="685" height="737" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579159076105">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="165" y="0" width="685" height="737" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1024.741@0.0.1024.741" timestamp="1579159076105" />
+    <state x="175" y="164" key="run.anything.popup" timestamp="1578556709174">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="164" key="run.anything.popup/0.0.1024.741@0.0.1024.741" timestamp="1578556709174" />
+  </component>
+</project>
